@@ -1,0 +1,2 @@
+export const MEW_CONTRACT_ADDRESS =
+  "0xd054e5724d7d595b72abbb0c460e0221cd859c8f";
